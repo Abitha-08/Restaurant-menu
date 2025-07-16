@@ -29,11 +29,4 @@ The goal of this project is to create a **visually appealing**, **well-organized
 
 ---
 
-## 📸 Demo Preview
-
-> 💻 [Click here to see the live demo](#) *(Replace this with your GitHub Pages or deployment link)*
-
----
-
-## 📁 Folder Structure
 
