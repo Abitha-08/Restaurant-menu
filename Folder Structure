@@ -1,0 +1,5 @@
+codsoft/
+│
+├── index.html
+├── style.css
+└── script.js (optional, for future interactivity)
